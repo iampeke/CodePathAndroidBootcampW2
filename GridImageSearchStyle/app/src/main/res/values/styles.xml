@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:spinnerDropDownItemStyle">@style/mySpinnerItemStyle</item>
+        <item name="android:spinnerItemStyle">@style/mySpinnerLiveStyle</item>
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:gravity">right</item>
+    </style>
+    <style name="mySpinnerLiveStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:gravity">right</item>
+    </style>
+
+    <!-- Action Bar Theme -->
+    <style name="MyCustomTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+    </style>
+
+    <style name="MyActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#0066FF</item>
+        <item name="android:icon">@drawable/ic_cameralogo</item>
+    </style>
+</resources>
