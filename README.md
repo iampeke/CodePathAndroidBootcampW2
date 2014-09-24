@@ -23,4 +23,11 @@ This is an Android application for the Grid Image Search using the Google Image 
 
 ![Video Walkthrough](GridImageSearch.gif)
 
+**Modified the text alignment for the Spinners -> Right Aligned (GridImageSearchRightAlign)**
+Same user story hold as above with-
+
+- [x] Text in Spinners is Right Aligned both in Dropdown and in Selected View.
+- 
+![Video Walkthrough](GridImageSearchSpinnerRightAlign.gif)
+
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
