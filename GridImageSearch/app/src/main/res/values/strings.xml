@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GridImageSearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchPrompt">Enter Search Query</string>
+    <string name="searchLabel">Search</string>
+    <string name="image_result">Image Result</string>
+    <string name="image_title">Image Title</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="filter_activity_title">Advanced search options</string>
+    <string name="size_filter_title">Image Size</string>
+    <string name="color_filter_title">Color Filter</string>
+    <string name="type_filter_title">Image Type</string>
+    <string name="site_filter_title">Site filter</string>
+    <string name="save_text">Save</string>
+
+    <string-array name="size_filter_array">
+        <item></item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+
+    <string-array name="color_filter_array">
+        <item></item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string-array name="type_filter_array">
+        <item></item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+</resources>
