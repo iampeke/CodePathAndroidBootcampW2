@@ -37,7 +37,7 @@ Same user stoies about hold with-
 - [x] Blue camera Activity Bar Icon and same blue background for Activity Bar
 - [x] Matching blue background for Search and Save buttons
 - [x] Some padding adding to some elements in Activities
-- 
+
 ![Video Walkthrough](GridImageSearchStyle.gif)
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
