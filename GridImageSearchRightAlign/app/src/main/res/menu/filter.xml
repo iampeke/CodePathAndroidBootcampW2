@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SearchActivity" >
+    <item android:id="@+id/miFilter"
+        android:title="Modify Filters"
+        android:onClick="onFilterMenuItem"
+        android:icon="@drawable/ic_filter"
+        android:showAsAction="always" />
+</menu>
